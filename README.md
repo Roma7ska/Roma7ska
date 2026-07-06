@@ -38,11 +38,6 @@
   <a href="https://steamcommunity.com/id/Roma7ska/" target="_blank">
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
   </a>
-  <a href="https://www.ea.com/ea-play" target="_blank">
-    <img src="https://img.shields.io/badge/EA_Play-FF4747?style=for-the-badge&logo=ea&logoColor=white" />
-  </a>
-</p>
-
 ---
 
 ### 🚗 Машина мечты
